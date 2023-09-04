@@ -1,6 +1,6 @@
 //Código: Teste LCD 16x2 com Keypad 1602A Arduino Mega
 //Autor: Aureziano
-  
+//https://www.arduinoecia.com.br/arduino-shield-lcd-16x2-com-keypad/ 
 #include <LiquidCrystal.h>  
   
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);  
